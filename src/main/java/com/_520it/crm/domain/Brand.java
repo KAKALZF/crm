@@ -3,8 +3,10 @@ package com._520it.crm.domain;
 import lombok.Getter;
 import lombok.Setter;
 
-@Getter@Setter
+@Getter
+@Setter
 public class Brand {
+    //  test gitHub
     private Long id;
 
     private String brandoriginname;

@@ -7,6 +7,7 @@ import lombok.Setter;
 @Setter
 public class Brand {
     //  test gitHub
+    //test github2
     private Long id;
 
     private String brandoriginname;
